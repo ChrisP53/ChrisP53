@@ -10,6 +10,6 @@ A Full Stack Developer
 
 ## Programming Languages
 
-JS, React, Redux, Express, Node JS, PostgreSQL
+JS, React, Redux, Express, Node JS, PostgreSQL, HTML, CSS
 
 I'm just someone from Argentina who got into programming and thrived to get **better**, so I got through the Henry Full Stack Developer Bootcamp.
